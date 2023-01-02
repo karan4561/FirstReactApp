@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+.Dashed-border{
+    border : 2px dashed
+}
+
+button{
+    border: none;
+    box-shadow: 5px 7px 8px rebeccapurple;
+}
+
+form {
+    padding: 15px;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+[type=text],[type=number],[type=submit]{
+    padding: 8px;
+}
